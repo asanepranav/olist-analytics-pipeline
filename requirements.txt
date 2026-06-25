@@ -8,3 +8,4 @@ python-dotenv
 litellm
 groq
 langchain-groq
+matplotlib
