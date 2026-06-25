@@ -2,6 +2,8 @@
 
 An end-to-end data engineering and analytics project built on the Brazilian Olist e-commerce dataset. Ingests and transforms 100K+ orders using PySpark, stores analytics in DuckDB, generates AI-powered business reports via LLM agents, and serves everything through an interactive Streamlit dashboard.
 
+**Live demo:https://olist-analytics-pipeline-bzpmqsg6ikp299gwejf4xg.streamlit.app/**
+
 ![Olist E-Commerce Analytics Pipeline demo](demo.png)
 
 ## Architecture
