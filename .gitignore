@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Database / local artifacts
+*.sqlite3
+*.db
+*.log
+db/*.duckdb
+
+# Data artifacts
+data/processed/
+*.parquet
+*.crc
+
+# Temporary files
+*.tmp
+*.bak

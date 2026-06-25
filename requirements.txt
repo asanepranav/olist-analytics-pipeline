@@ -1,0 +1,10 @@
+pyspark
+duckdb
+crewai
+streamlit
+plotly
+pandas
+python-dotenv
+litellm
+groq
+langchain-groq
